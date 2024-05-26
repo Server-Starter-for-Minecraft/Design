@@ -1,0 +1,2 @@
+# Design
+ServerStarter関連で使用するデザインにかかわるファイル等の管理
